@@ -14,7 +14,7 @@ def in3():
 tk.Button(text='pet doge', command=in1).pack(fill=tk.X)
 tk.Button(text='feed doge', command=in1).pack(fill=tk.X)
 tk.Button(text='good boy', command=in1).pack(fill=tk.X)
-tk.Button(text='play with he doge', command=in1).pack(fill=tk.X)
+tk.Button(text='play with the doge', command=in1).pack(fill=tk.X)
 tk.Button(text='take the ball form the doge', command=in2).pack(fill=tk.X)
 tk.Button(text='give the doge the ball', command=in1).pack(fill=tk.X)
 tk.Button(text='kill the doge..', command=in3).pack(fill=tk.X)
